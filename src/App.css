@@ -1,0 +1,397 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,300&display=swap');
+
+body{
+  background:#fff;
+  
+ }
+.header {
+     margin: 40px;
+     margin-left: 7%;
+}
+#two{
+  margin-top: -11px;
+  margin-left: 48px;
+
+}
+.top{
+  margin: -5px;
+}
+.imag{
+  margin-left: 63%;
+  margin-top: 1%;
+  position: absolute;
+}
+.line{
+border: 2px solid #eee;
+  width: 89%;
+  margin-left: 53px;
+
+}
+.line2{
+  border: 2px solid black;
+  width: 89%;
+  margin-left: 53px;
+}
+.line3{
+  border: 2px solid black;
+  width: 89%;
+  margin-left: 53px;
+}
+
+.part2{
+  margin-left: 6%;
+}
+
+.part3{
+  margin-left: 6%;
+}
+
+.left-side{
+  margin-left: 44%;
+  margin-top: -13%;
+  position: absolute;
+}
+.line4{
+  border: 2px solid black;
+  width: 89%;
+  margin-left: 53px;
+}
+.line5{
+  border: 1px solid black;
+  width: 89%;
+  margin-left: 53px;
+  margin-top: 45px;
+}
+ .Accountint{
+     margin-left:72px;
+     top: 41px;
+    position: relative;
+  
+ }
+ .date{
+  margin-left: 70%;
+  margin-top:62px;
+  position: absolute;
+ }
+ .local{
+  margin-left: 5%;
+  margin-top:3px;
+}
+ .part-4{
+   margin-left: 5%;
+ }
+ .line6{
+  border: 1px solid black;
+  width: 89%;
+  margin-left: 53px;
+  margin-top: 45px;
+}
+ .Accounts{
+     margin-left:72px;
+     top: 41px;
+    position: relative;
+  
+ }
+ .date-1{
+  left: 70%;
+  margin-top:45px;
+  position: absolute;
+ }
+ .Accounts{
+  margin-left:72px;
+  top: 41px;
+ position: relative;
+
+}
+ .Safety{
+  margin-left: 5%;
+  margin-top:3px;
+ }
+ .part-5{
+  margin-left: 4%;
+ }
+ /*  */
+ .date-2{
+  left: 70%;
+  margin-top:45px;
+  position: absolute;
+ }
+ .Senior{
+  margin-left: 5%;
+ position: relative;
+  top: 45px
+ }
+ .Alfanar{
+  margin-left:72px;
+  top: -14px;
+ position: relative;
+
+}
+ .line7{
+  border: 1px solid black;
+  width: 89%;
+  margin-left: 53px;
+  margin-top: 45px;
+}
+.part-6{
+  margin-left: 4%;
+ }
+ /*  */
+
+ .date-3{
+  left: 70%;
+  margin-top:45px;
+  position: absolute;
+ }
+ .Accountant{
+  margin-left: 5%;
+ position: relative;
+  top: 45px
+ }
+ .dubai{
+  margin-left:72px;
+  top: -14px;
+ position: relative;
+
+}
+ .line8{
+  border: 1px solid black;
+  width: 89%;
+  margin-left: 53px;
+  margin-top: 45px;
+}
+.part-7{
+  margin-left: 4%;
+ }
+ /*  */
+ .date-4{
+  left: 70%;
+  margin-top:45px;
+  position: absolute;
+ }
+ .Auditor{
+  margin-left: 5%;
+ position: relative;
+  top: 45px
+ }
+ .Charted{
+  margin-left:72px;
+  top: -14px;
+ position: relative;
+
+}
+ .line9{
+  border: 1px solid black;
+  width: 89%;
+  margin-left: 53px;
+  margin-top: 45px;
+}
+.part-8{
+  margin-left:4%;
+}
+/*  */
+.date-5{
+  left: 70%;
+  margin-top:45px;
+  position: absolute;
+ }
+ .Accountant-1{
+  margin-left: 5%;
+ position: relative;
+  top: 45px
+ }
+ .National{
+  margin-left:72px;
+  top: -14px;
+ position: relative;
+
+}
+ .line10{
+  border: 1px solid black;
+  width: 89%;
+  margin-left: 53px;
+  margin-top: 45px;
+}
+.part-9{
+  margin-left:4%;
+}
+/*  */
+.line11{
+  border: 1px solid black;
+  width: 89%;
+  margin-left: 53px;
+  margin-top: 45px;
+}
+.Qualification{
+  margin-left: 6%;
+  position: relative;
+  top:32px;
+}
+.Certified{
+  margin-left: 5%;
+}
+#span1{
+  position: relative;
+  top:-17px;
+  left: 5%;
+}
+.Member{
+  margin-left: 5%;
+  margin-top: 5px;
+}
+#span2{
+  position: relative;
+  top:-17px;
+  left: 5%;
+}
+.Institute{
+  margin-left: 5%;
+  margin-top: 5px;
+}
+#span3{
+  position: relative;
+  top:-17px;
+  left: 5%;
+}
+.Bachelor{
+  margin-left: 5%;
+  margin-top: 5px;
+}
+#span4{
+  position: relative;
+  top:-17px;
+  left: 5%;
+}
+/*  */
+.computer{
+  margin-left: 6%;
+  position: relative;
+  top:32px;
+}
+.line12{
+  border: 1px solid black;
+  width: 89%;
+  margin-left: 53px;
+  margin-top: 45px;
+}
+.part-10{
+  margin-left: 47%;
+}
+ .samll{
+  font-size: 12px;
+ }
+ .Sap{
+   margin-top: -8%;
+   margin-left: 5%;
+ }
+ #sage{
+  position: relative;
+  top: -13px;
+ }
+ #sage1{
+  position: relative;
+  top: -26px;
+ }
+ #sage2{
+  position: relative;
+  top: -42px;
+ }
+ /*  */
+ .skill{
+  margin-left: 6%;
+  position: relative;
+  top:32px;
+}
+.line13{
+  border: 1px solid black;
+  width: 89%;
+  margin-left: 53px;
+  margin-top: 45px;
+}
+.part-11{
+  margin-left: 5%;
+}
+/*  */
+.line14{
+  border: 1px solid black;
+  width: 89%;
+  margin-left: 53px;
+  margin-top: 45px;
+}
+.Reference{
+  margin-left: 6%;
+  position: relative;
+  top:44px;
+}
+#demand{
+  margin-left: 6%;
+}
+@media(max-width:750px){
+  .left-side{
+    margin-top: 3%;
+    margin-left: 5%;
+    position: absolute;
+  }
+  #part4{
+    margin-top: 41%;
+    margin-left: 12%;
+  }
+  .local{
+    margin-left: 9%;
+  }
+  .Safety{
+    margin-left: 9%;
+  }
+  .Senior{
+    margin-left: 12%;
+  }
+  .date{
+    margin-left: 56%;
+  }
+  .date-1{
+  
+    margin-left: -11%;
+  }
+  .date-2{
+    margin-left: -10%;
+  }
+  .Auditor{
+    margin-left: 12%;
+  }
+  /* .Accountant{
+    margin-left: 12%;
+  } */
+  .date-3{
+    margin-left: -10%;
+  }
+  .date-5{
+    margin-left: -10%;
+  }
+  .Accountant-1{
+    margin-left: 11%;
+  }
+  .Sap{
+    margin-top: -17%;
+    position: relative;
+    margin-left: 8%;
+  }
+  .Reference{
+    margin-left: 10%;
+  }
+  #demand{
+    margin-left: 10%;
+  }
+  
+
+
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
